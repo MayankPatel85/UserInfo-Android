@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Mid PartC</string>
+    <string name="hint_name">Enter your name:</string>
+    <string name="hint_age">Enter your age:</string>
+    <string name="gender">Gender:</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="select_your_date_of_birth">Date of Birth:</string>
+    <string name="department">Department:</string>
+    <string name="save">Save</string>
+    <string name="employee_details">EmployeeDetails</string>
+    <string name="name_key">Name</string>
+    <string name="age_key">Age</string>
+    <string name="gender_key">Gender</string>
+    <string name="birth_year_key">BirthYear</string>
+    <string name="birth_month_key">BirthMonth</string>
+    <string name="birth_day_key">BirthDay</string>
+    <string name="department_key">Department</string>
+    <string name="name_header">Name:</string>
+    <string name="age_header">Age:</string>
+    <string-array name="departments">
+        <item>Information Technology</item>
+        <item>Civil Engineering</item>
+        <item>Mechanical Engineering</item>
+        <item>Finance</item>
+        <item>Robotics</item>
+        <item>App Development</item>
+        <item>Human Resource</item>
+    </string-array>
+</resources>
